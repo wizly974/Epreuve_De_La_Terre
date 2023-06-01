@@ -1,0 +1,15 @@
+C:\Users\wesle\source\repos\Terre00.cs\bin\Debug\net7.0\Terre00.cs.exe
+C:\Users\wesle\source\repos\Terre00.cs\bin\Debug\net7.0\Terre00.cs.deps.json
+C:\Users\wesle\source\repos\Terre00.cs\bin\Debug\net7.0\Terre00.cs.runtimeconfig.json
+C:\Users\wesle\source\repos\Terre00.cs\bin\Debug\net7.0\Terre00.cs.dll
+C:\Users\wesle\source\repos\Terre00.cs\bin\Debug\net7.0\Terre00.cs.pdb
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.AssemblyInfo.cs
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.dll
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\refint\Terre00.cs.dll
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.pdb
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\Terre00.cs.genruntimeconfig.cache
+C:\Users\wesle\source\repos\Terre00.cs\obj\Debug\net7.0\ref\Terre00.cs.dll

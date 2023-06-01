@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Terre12.cs": {
+      "commandName": "Project",
+      "commandLineArgs": "12:00AM"
+    }
+  }
+}

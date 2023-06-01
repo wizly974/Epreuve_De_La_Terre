@@ -1,0 +1,15 @@
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\bin\Debug\net7.0\Terre14.cs.exe
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\bin\Debug\net7.0\Terre14.cs.deps.json
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\bin\Debug\net7.0\Terre14.cs.runtimeconfig.json
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\bin\Debug\net7.0\Terre14.cs.dll
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\bin\Debug\net7.0\Terre14.cs.pdb
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.AssemblyInfo.cs
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.dll
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\refint\Terre14.cs.dll
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.pdb
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\Terre14.cs.genruntimeconfig.cache
+C:\Users\wesle\source\repos\Coding_Accelerator\Terre.cs\Terre14.cs\obj\Debug\net7.0\ref\Terre14.cs.dll

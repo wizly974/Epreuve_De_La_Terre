@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Terre08.cs": {
+      "commandName": "Project",
+      "commandLineArgs": "2 3"
+    }
+  }
+}
